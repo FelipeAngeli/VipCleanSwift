@@ -1,6 +1,5 @@
 # README - VIP Clean Architecture Project (Swift)
 
-Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Sobre o Projeto
 
