@@ -8,7 +8,7 @@ Este projeto é um exemplo de implementação da arquitetura VIP Clean em Swift.
 
 Consulte **[https://clean-swift.com/](https://clean-swift.com/)** para saber como implantar o projeto.
 
-## 🚀 Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 O projeto segue a estrutura VIP Clean, que é dividida da seguinte forma:
 
@@ -51,7 +51,7 @@ open VipCleanSwift.xcodeproj
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Swift](https://www.apple.com/br/swift/) - Linguagem Usada
+* [Swift](https://www.apple.com/br/swift/) - Linguagem Utilizada
 * [VIP](https://clean-swift.com/) - Clean Swift Architecture
 
 
